@@ -1,6 +1,6 @@
 <html>
   <head><body>
-    <h1>SILL TEST</h1>
-    <p>its me karthik</p>
+    <h1>SkILL TEST</h1>
+    <p>FSD test</p>
   </head>
 </html>
